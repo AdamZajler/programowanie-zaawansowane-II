@@ -1,0 +1,30 @@
+D:\VisualStudioRepos\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.exe
+D:\VisualStudioRepos\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.deps.json
+D:\VisualStudioRepos\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.runtimeconfig.json
+D:\VisualStudioRepos\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.dll
+D:\VisualStudioRepos\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.pdb
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.AssemblyInfoInputs.cache
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.AssemblyInfo.cs
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.dll
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\refint\TDDTests.dll
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.pdb
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.genruntimeconfig.cache
+D:\VisualStudioRepos\TDDTests\TDDTests\obj\Debug\net6.0\ref\TDDTests.dll
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.exe
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.deps.json
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.runtimeconfig.json
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.dll
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\bin\Debug\net6.0\TDDTests.pdb
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.AssemblyInfo.cs
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.sourcelink.json
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.dll
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\refint\TDDTests.dll
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.pdb
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\TDDTests.genruntimeconfig.cache
+C:\Users\Adam\Desktop\STUDIA\ProgramowanieZaawansowaneII\Zad 3 - TDDTests\TDDTests\TDDTests\obj\Debug\net6.0\ref\TDDTests.dll

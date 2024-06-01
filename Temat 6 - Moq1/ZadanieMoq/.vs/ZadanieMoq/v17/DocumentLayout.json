@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adam\\Desktop\\STUDIA\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|c:\\users\\adam\\desktop\\studia\\programowaniezaawansowaneii\\zad 5 - moq1\\zadaniemoq\\zadaniemoq.tests\\mymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|solutionrelative:zadaniemoq.tests\\mymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|c:\\users\\adam\\desktop\\studia\\programowaniezaawansowaneii\\zad 5 - moq1\\zadaniemoq\\zadaniemoq.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|solutionrelative:zadaniemoq.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|c:\\users\\adam\\desktop\\studia\\programowaniezaawansowaneii\\zad 5 - moq1\\zadaniemoq\\zadaniemoq.tests\\isomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|solutionrelative:zadaniemoq.tests\\isomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyModule.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\Desktop\\STUDIA\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\MyModule.cs",
+              "RelativeDocumentMoniker": "ZadanieMoq.Tests\\MyModule.cs",
+              "ToolTip": "C:\\Users\\Adam\\Desktop\\STUDIA\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\MyModule.cs",
+              "RelativeToolTip": "ZadanieMoq.Tests\\MyModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:39:53.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISomeService.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\Desktop\\STUDIA\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\ISomeService.cs",
+              "RelativeDocumentMoniker": "ZadanieMoq.Tests\\ISomeService.cs",
+              "ToolTip": "C:\\Users\\Adam\\Desktop\\STUDIA\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\ISomeService.cs",
+              "RelativeToolTip": "ZadanieMoq.Tests\\ISomeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:39:47.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\Desktop\\STUDIA\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ZadanieMoq.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Adam\\Desktop\\STUDIA\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ZadanieMoq.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:38:58.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
